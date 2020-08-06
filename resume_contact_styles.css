@@ -1,0 +1,59 @@
+ .resume_file{
+    padding-top: 20px;
+    text-align: center;
+}
+
+h2, h3{
+    text-align: center;
+}
+
+main h3{
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+embed{
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-bottom: 40px;
+    width: 80%;
+    height: 1200px;
+}
+
+section{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.contact_link {
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.contact_icons:hover{
+    transform: scale(1.2, 1.2);
+}
+
+#contact_one{
+    background-color: darkgoldenrod;
+    width: 45%;
+    color: black;
+    font-size: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center; 
+    border-radius: 10px;
+}
+
+#contact_two{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 60px;
+    text-align: center; 
+    border-radius: 10px;
+}

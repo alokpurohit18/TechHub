@@ -1,0 +1,89 @@
+#main_image{
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 100%;
+}
+
+#main_imgcap_container{
+    display: block;
+    background-color:goldenrod;
+    position: absolute;
+    opacity: 80%;   
+    border-radius: 10px;
+    width: 93.5%;
+    bottom: 4px;
+}
+
+#main_imgcap{
+    padding-left: 10px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+}
+
+button{
+    float: right;
+    background-color: #b30000;
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    font-style: italic;
+    border-radius: 10px;
+    border: 2px solid white;
+    opacity: 100%;
+}
+
+button:hover{
+    transform: scale(1.2,1.2);
+}
+
+h2{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#main_article{
+    width: 65%;
+    float: left;
+    font-size: 14px;
+    font-family: cursive;
+    padding-left: 40px;
+}
+
+#author_image{
+    border: 2px solid white;
+    border-radius: 10px;
+    width: 80%;
+    height: 80%;
+}
+
+#author_info{
+    float: right; 
+    text-align: center;
+    width: 25%;
+    background-color: darkgoldenrod;
+    color: black;
+    margin-right: 40px;
+    margin-top: 25px;
+    margin-bottom: 35px;
+    border-radius: 10px;
+}
+
+.contact_link {
+    text-decoration: none;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+aside button{
+    float: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+aside p{
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

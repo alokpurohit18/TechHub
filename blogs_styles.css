@@ -1,0 +1,47 @@
+h2{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.details_right{
+    float: right;
+    width: 45%;
+    margin-right: 40px;
+}
+
+.details_left{
+    float: left;
+    width: 45%;
+    margin-left: 40px;
+}
+
+summary{
+    width: 100%;
+    height: auto;
+    background-color: darkgoldenrod;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 2px solid white;
+    cursor: pointer;
+}
+
+@keyframes blog_heading{
+    from{font-weight: unset;}
+    to{font-weight: bold;}
+}
+
+summary:hover{
+    animation-name: blog_heading;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+main img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}

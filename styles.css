@@ -1,0 +1,82 @@
+body{
+    background-color: black;
+    color: whitesmoke ;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 40px;
+    font-family: cursive, Arial, Helvetica, sans-serif; 
+    letter-spacing: normal;
+    word-spacing: 2px;
+}
+
+header{
+    margin-top: 30px;
+    text-align: justify;
+    height: 150px;
+}
+
+
+.main_heading{
+    padding-left: 40px;
+}
+
+nav{
+    float: right;
+    vertical-align: auto;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-right: 30px;
+}  
+
+header a{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+header a:hover{
+    background-color: darkgoldenrod;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+hr{
+    clear: both;
+    height: 1px;
+}
+
+.contact_icons{
+    width: 10%;
+    height: 10%;
+}
+
+footer{
+    clear: both;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+}
+
+#copy_info{
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+
+#my_topics{
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+
+#my_pictures{
+    float: left;
+    text-align: center;
+    width: 60%;
+}
+
+footer img{
+    border: 2px solid white;
+    border-radius: 10px;
+}
