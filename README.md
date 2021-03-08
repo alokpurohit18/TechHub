@@ -3,8 +3,8 @@ A blogging website for computer technology related blogs and content. Designed u
 
 Website Screenshots - 
 
-![](src/Screenshots/Screenshot%20(38).png)
+![](Screenshots/Screenshot%20(38).png)
 
-![](src/Screenshots/Screenshot%20(39).png)
+![](Screenshots/Screenshot%20(39).png)
 
-![](src/Screenshots/Screenshot%20(40).png)
+![](Screenshots/Screenshot%20(40).png)
